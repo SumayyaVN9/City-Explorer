@@ -8,13 +8,13 @@ When a user taps on a specific city, the app displays detailed information inclu
 - 🍴 **Local Cuisine**
 - 🏰 **Popular Attractions**
 
----
+<!-- ---
 
 ## 📱 App Preview
 
 <img src="img.jpg" alt="City Explorer Screenshot" width="300"/>
 
-*(Example: Aluva, Kollam, Ernakulam, Palakkad)*
+*(Example: Aluva, Kollam, Ernakulam, Palakkad)* -->
 
 ---
 
